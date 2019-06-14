@@ -1,9 +1,9 @@
 # POS-Servelet
 
-This a web based simple POS System which can manage Customers, Items and Order details.
+This is a web based simple POS System which can manage Customers, Items and Order details.
 Customers can be added, updated or deleted. 
 Items also can be added, updated or deleted.
-Order can be placed. Can get and search all orders with order details.
+Orders can be placed. Can get and search all orders with order details.
 This project is done to get better understanding about jQuery, Java Script, Web Servelet ..etc.
 
 ### How to Install this Application
