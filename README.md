@@ -9,15 +9,21 @@ This project is done to get better understanding about jQuery, Java Script, Web 
 ### How to Install this Application
 
 1. Initialize a local git repository.
-Create a folder and open git bash in that folder.
+```sh
+Create a folder and open git bash on that folder.
+```
 
-2. Clone [https://github.com/DulminiMadumalika/POS-Servelet] to your repository.
+2. Clone https://github.com/DulminiMadumalika/POS-Servelet to your repository.
+```sh
 git clone https://github.com/DulminiMadumalika/POS-Servelet.git
+```
 
 3. Import project from IntellijIdea and run the project.
 
 4. Send request via browser.
+```sh
 Request : http://localhost:8080/pos/index.html
+```
 
 ## Technologies used
 + HTML
@@ -26,16 +32,16 @@ Request : http://localhost:8080/pos/index.html
 + Ajax
 + Java Servlet
 + Java EE
-- JPA
-- Ajax
-- JDBC
-- Ecma Script
-- MySql
-- Servlet Programming
++ JPA
++ Ajax
++ JDBC
++ Ecma Script
++ MySql
++ Servlet Programming
 
 ## License
 
-POS-Servelet is MIT licensed, as found in the [License](https://github.com/DulminiMadumalika/POS-Servelet/blob/master/LICENSE)
+POS-Servelet is MIT licensed, as found in the [License](https://github.com/DulminiMadumalika/POS-Servelet/blob/master/LICENSE) for more Details.
 
 
 
